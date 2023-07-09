@@ -1,4 +1,6 @@
 .banner__imagen{
+    /* Instead of img tag in HTML, a div should be used */
+    /* background: url("/assets/img/banner.png") no-repeat cover center; */
     width: 100%;
     height: calc(100vh-72px);
 }
